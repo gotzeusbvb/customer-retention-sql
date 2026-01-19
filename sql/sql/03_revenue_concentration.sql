@@ -1,4 +1,0 @@
--- 03 Revenue Concentration Analysis
--- Analyzes revenue distribution using customer ranking and deciles
--- Identifies top revenue-contributing customers
--- Database: RetailAnalyticsDW
