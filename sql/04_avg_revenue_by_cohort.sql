@@ -1,0 +1,3 @@
+-- 04 Average Revenue per Customer by Cohort
+-- Calculates average customer value by acquisition cohort
+-- Database: RetailAnalyticsDW
