@@ -1,0 +1,4 @@
+-- 02 Purchase Frequency Segmentation
+-- Segments customers into frequency quartiles using active months
+-- Technique: NTILE window function
+-- Database: RetailAnalyticsDW
