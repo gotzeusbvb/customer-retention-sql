@@ -1,0 +1,3 @@
+-- 01 Cohort Retention Analysis
+-- Measures customer retention by lifecycle month
+-- Database: RetailAnalyticsDW
